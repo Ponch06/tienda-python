@@ -4,7 +4,7 @@ Created on Wed Sep  9 19:57:49 2026
 
 @author: Citlali
 """
-
+# Citlali Guadalupe Sosa Garcia 
 
 def cargar_catalogo():
     # Usamos un diccionario donde la clave es el ID del producto
@@ -28,3 +28,6 @@ def mostrar_catalogo(catalogo):
     for id_prod, info in catalogo.items():
         print(f"{id_prod:<6} | {info['nombre']:<15} | ${info['precio']:<7.2f} | {info['stock']}")
     print("-" * 45)
+
+mi_inventario = cargar_catalogo()
+mostrar_catalogo(mi_inventario)
