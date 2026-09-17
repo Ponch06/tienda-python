@@ -1,3 +1,11 @@
+
+# -*- coding: utf-8 -*-
+"""
+Created on Sun Sep 13 13:49:04 2026
+
+@author: ponch
+"""
+
 # -*- coding: utf-8 -*-
 """
 Created on Sun Sep 13 13:49:04 2026
@@ -40,7 +48,3 @@ elif opcion == "2":
 
 else:
     print("Opción no válida")
-    
-
-    
-    
