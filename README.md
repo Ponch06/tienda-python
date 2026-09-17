@@ -66,7 +66,7 @@ Se realizaron commits descriptivos para registrar los avances y Pull Requests pa
 
 | Integrante | Rol asignado | Commits | Funciones |
 |---|---|---|---|
-| González Bautista Alfonso | Desarrollo del catálogo de productos. | Por completar | Por completar |
+| González Bautista Alfonso | Creador de repositorio en GitHub y reglas de descuento | Por completar | Por completar |
 | Sosa García Citlali Guadalupe | Desarrollo de la lógica del carrito. | Por completar | Por completar |
 | Molina Duran Carlos Andree | Implementación de totales y descuentos. | Por completar | Por completar |
 | Pérez Medel Luis Bryan | Integración y documentación del proyecto. | Por completar | Por completar |
