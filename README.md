@@ -66,11 +66,11 @@ Se realizaron commits descriptivos para registrar los avances y Pull Requests pa
 
 | Integrante | Rol asignado | Commits | Funciones |
 |---|---|---|---|
-| González Bautista Alfonso | Creador de repositorio en GitHub y reglas de descuento | Por completar | Por completar |
-| Sosa García Citlali Guadalupe | Catálogo de productos | Por completar | Por completar |
-| Molina Duran Carlos Andree | Lista de tuplas carrito de compras| Por completar | Por completar |
-| Pérez Medel Luis Bryan | Tupla registro inmutable de venta | Por completar | Por completar |
-| Ramírez Toribio Diego | Tupla registro inmutable de venta| Por completar | Por completar |
+| González Bautista Alfonso | Creador de repositorio en GitHub y reglas de descuento | Por completar | aplicar_descuento |
+| Sosa García Citlali Guadalupe | Catálogo de productos | Por completar | cargar-catalogo, mostrar_catalogo |
+| Molina Duran Carlos Andree | Lista de tuplas carrito de compras| Por completar | agregar_producto, eliminar_producto, calcular_subtotal |
+| Pérez Medel Luis Bryan | Tupla registro inmutable de venta | Por completar | generar_ticket |
+| Ramírez Toribio Diego | Tupla registro inmutable de venta| Por completar | generar_ticket |
 
 
 ## Conclusión
